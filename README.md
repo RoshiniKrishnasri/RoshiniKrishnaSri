@@ -8,7 +8,8 @@
 
 ---
 ## my mind map
-![Uploading WhatsApp Image 2025-07-12 at 12.48.26_d740f34a.jpg…]()
+![WhatsApp Image 2025-07-12 at 12 48 26_c9ab9f7d](https://github.com/user-attachments/assets/6c0f08a8-8bd8-4fb3-b3e8-55e455efaa82)
+
 
 
 

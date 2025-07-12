@@ -1,7 +1,5 @@
-<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/assets/roshini_intro_banner.gif" alt="..." />
----
 # 👋 Hey there! I'm Roshini Krishnasri
-
+----
 #🌟 *B.Tech 3rd Year | Data Science Enthusiast | Python Lover | Lifelong Learner*
 
 ---

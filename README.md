@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Roshinikrishnasri/Roshinikrishnasri/blob/main/banner.png" alt="Hey Hii I'm Roshini" width="100%"/>
+  <img src="![WhatsApp Image 2025-07-12 at 12 48 26_d740f34a](https://github.com/user-attachments/assets/633b4ef5-90ad-476f-bc0b-b1a3d05a487a)/>
 </p>
 # 👋 Hi there! I'm Roshini Krishnasri
 

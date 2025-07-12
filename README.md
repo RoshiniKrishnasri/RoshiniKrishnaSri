@@ -1,3 +1,7 @@
+<p align="center">
+<img src = "https://github.com/RoshiniKrishnasri/RoshiniKrishnaSri/blob/main/WhatsApp%20Image%202025-07-12%20at%2020.34.33_63cb4225.jpg">
+</p>
+
 # 👋 Hey there! I'm Roshini Krishnasri
 
 #🌟 *B.Tech 3rd Year | Data Science Enthusiast | Python Lover | Lifelong Learner*

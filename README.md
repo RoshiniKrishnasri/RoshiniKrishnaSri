@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="https://github.com/RoshiniKrishnasri/RoshiniKrishnaSri/raw/main/Brown%20Beige%20Cute%20Simple%20Mind%20Mapping%20Brainstorm%20Graphic%20Organizer.png"/>
+  <img src="https://github.com/RoshiniKrishnasri/RoshiniKrishnasri/blob/main/assets/roshini_intro_banner.gif" alt="Roshini Intro Banner"/>
 </p>
 ---
 # 👋 Hey there! I'm Roshini Krishnasri
 
-🌟 *B.Tech 3rd Year | Data Science Enthusiast | Python Lover | Lifelong Learner*
+#🌟 *B.Tech 3rd Year | Data Science Enthusiast | Python Lover | Lifelong Learner*
 
 ---
+## my mind map
+<img src="https://github.com/G-Roshini-hub/your-banner.png" width="100%" alt="Banner" />
+
+
 
 ## ✨ About Me
 

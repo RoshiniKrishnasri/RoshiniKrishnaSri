@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RoshiniKrishnasri/RoshiniKrishnasri/blob/main/assets/roshini_intro_banner.gif" alt="Roshini Intro Banner"/>
+  <img src="https://raw.githubusercontent.com/RoshiniKrishnasri/RoshiniKrishnasri/main/assets/roshini_intro_banner.gif"/>
 </p>
 ---
 # 👋 Hey there! I'm Roshini Krishnasri
@@ -8,7 +8,7 @@
 
 ---
 ## my mind map
-<img src="https://github.com/G-Roshini-hub/your-banner.png" width="100%" alt="Banner" />
+![WhatsApp Image 2025-07-12 at 11 40 54_b9ff8215](https://github.com/user-attachments/assets/7ef6b821-c442-466f-9a7d-951fbc0e8d84)
 
 
 

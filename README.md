@@ -65,6 +65,8 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 - Beginner Python projects
 - Open-source contributions
 - Data analysis tasks
+- Intenships
+ 
 
 ---
 

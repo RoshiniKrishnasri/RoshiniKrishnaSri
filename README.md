@@ -1,8 +1,4 @@
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8b24ea3c-dc59-400d-8bc3-9ad7389ff93d"/>
-</p>
-
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/assets/roshini_intro_banner.gif" alt="..." />
 ---
 # 👋 Hey there! I'm Roshini Krishnasri
 

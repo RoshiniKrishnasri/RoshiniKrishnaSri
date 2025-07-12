@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RoshiniKrishnasri/RoshiniKrishnasri/main/assets/roshini_intro_banner.gif"/>
+  <img src="https://github.com/user-attachments/assets/8b24ea3c-dc59-400d-8bc3-9ad7389ff93d"/>
 </p>
+
 ---
 # 👋 Hey there! I'm Roshini Krishnasri
 

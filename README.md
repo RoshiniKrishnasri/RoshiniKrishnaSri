@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Roshinikrishnasri/Roshinikrishnasri/blob/main/banner.png" alt="Hey Hii I'm Roshini" width="100%"/>
+</p>
 # 👋 Hi there! I'm Roshini Krishnasri
 
 🎓 B.Tech 3rd year | Data Science | Python Enthusiast  
@@ -25,8 +28,8 @@
 
 ## 📫 How to reach me
 - ✉ [roshini.ds27@gmial.com]
-- 💼 [https://www.linkedin.com/in/roshini-krishnasri-b3b677293/![WhatsApp Image 2025-07-12 at 12 48 26_d740f34a](https://github.com/user-attachments/assets/bde01cb7-d73e-4c58-ae7b-7664dc4abf27)
-]
+- 💼 [https://www.linkedin.com/in/roshini-krishnasri-b3b677293/![WhatsApp Image 2025-07-12 at 12 48 26_d740f34a]
+- 🔥[https://leetcode.com/u/rosh_ini_166/]
 
 ## ⚡ Fun fact
 - I love organizing things digitally — files, bookmarks, code, everything!

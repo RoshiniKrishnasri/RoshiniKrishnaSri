@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Roshinikrishnasri/Roshinikrishnasri/blob/main/banner.png" alt="Hey Hii I'm Roshini" width="100%"/>
+  <img src="https://github.com/RoshiniKrishnasri/RoshiniKrishnaSri/raw/main/Brown%20Beige%20Cute%20Simple%20Mind%20Mapping%20Brainstorm%20Graphic%20Organizer.png"/>
 </p>
 
 # 👋 Hi there! I'm Roshini Krishnasri

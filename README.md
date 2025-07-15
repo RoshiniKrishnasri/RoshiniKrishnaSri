@@ -92,15 +92,16 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 
 <p align="left">
   <a href="mailto:roshinikrishnasri@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-roshinikrishnasri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/roshini-krishnasri-b3b677293/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-roshini--krishnasri--b3b677293-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/rosh_ini_166/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-rosh__ini__166-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---

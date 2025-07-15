@@ -88,12 +88,20 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect with me
 
-- 📧 Email: [roshini.ds27@gmail.com](mailto:roshini.ds27@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/roshini-krishnasri-b3b6f7293)
-- 🐙 [GitHub](https://github.com/RoshiniKrishnasri)
-- 🌐 [LeetCode](https://leetcode.com/roshi_ks_1604)
+<p align="left">
+  <a href="mailto:roshinikrishnasri@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-roshinikrishnasri@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/roshini-krishnasri-b3b677293/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-roshini--krishnasri--b3b677293-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/rosh_ini_166/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-rosh__ini__166-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
 
 ---
 

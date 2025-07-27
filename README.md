@@ -87,9 +87,14 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 > *"Learn passionately, grow consistently, share generously, and uplift others along the way."* 🌱💫
 
 ---
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=G-Roshini-hub&hide_border=true&short_numbers=true" alt="GitHub Streak" />
-</a>
+## 📊 GitHub Stats
+
+![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Roshini-hub&show_icons=true&theme=purple&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Roshini-hub&layout=compact&theme=purple&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-Roshini-hub&theme=purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 ## 📫 Connect with me

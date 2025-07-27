@@ -89,14 +89,12 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 ---
 ## 📊 GitHub Stats
 
-![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G-Roshini-hub&show_icons=true&theme=purple&hide_border=true)
+![Roshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-roshini-hub&show_icons=true&theme=purple&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G-Roshini-hub&layout=compact&theme=purple&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-roshini-hub&layout=compact&theme=purple&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-Roshini-hub&theme=purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=g-roshini-hub&theme=purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
-
 ## 📫 Connect with me
 
 <p align="left">

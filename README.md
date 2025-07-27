@@ -87,12 +87,7 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 > *"Learn passionately, grow consistently, share generously, and uplift others along the way."* 🌱💫
 
 ---
-## 📊GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-Roshini-hub&theme=chartreuse-dark&card_height=190)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=G-Roshini-hub)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=G-Roshini-hub&theme=dark)](https://git.io/streak-stats)
 
----
 ## 📫 Connect with me
 
 <p align="left">

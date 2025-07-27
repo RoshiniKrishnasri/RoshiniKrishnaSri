@@ -75,7 +75,15 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 - Learning paths for beginners in Data Science
 
 ---
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G.Roshini-hub&show_icons=true&theme=radical" alt="Roshini's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G.Roshini-hub&theme=radical" alt="GitHub Streak" />
+</p>
+---
 ## ✨ My Motto
 
 > *"Learn passionately, grow consistently, share generously, and uplift others along the way."* 🌱💫

@@ -87,6 +87,10 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 > *"Learn passionately, grow consistently, share generously, and uplift others along the way."* 🌱💫
 
 ---
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=G-Roshini-hub&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+</a>
+---
 
 ## 📫 Connect with me
 

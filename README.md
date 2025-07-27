@@ -88,7 +88,8 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 
 ---
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=G-Roshini-hub)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=G-Roshini-hub&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ## 📫 Connect with me

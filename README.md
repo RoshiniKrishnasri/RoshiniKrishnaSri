@@ -2,9 +2,10 @@
 <img src = "https://github.com/RoshiniKrishnasri/RoshiniKrishnaSri/blob/main/WhatsApp%20Image%202025-07-12%20at%2020.34.33_63cb4225.jpg">
 </p>
 
-# 👋 Hey there! I'm Roshini Krishnasri
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=007ACC&size=28&center=true&vCenter=true&width=750&height=70&lines=Hey+I'm+Roshini+Krishna+Sri+💛;🌱+On+a+journey+of+self-growth+%26+learning;💡+Curious+Mind+%7C+Passionate+Problem+Solver;💻+Exploring+Data+Science+%7C+Python+%7C+SQL;📊+LeetCode+%26+GitHub+Grind;🎯+Focused+on+Consistency+Over+Perfection;📚+Loves+to+learn+%7C+build+%7C+grow;✨+Believer+in+Small+Steps+%3D+Big+Change">
+</p>
 
-#🌟 *B.Tech 3rd Year | Data Science Enthusiast | Python Lover | Lifelong Learner*
 
 ---
 
@@ -37,6 +38,13 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshini-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
 </p>
 
+## Technical Skills ✔
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
 
 ## 💡 Currently Exploring
 

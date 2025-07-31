@@ -31,6 +31,12 @@ I’m a firm believer in the power of *community* and *collaboration*.
 Connecting with like-minded people, sharing ideas, and building cool things together is what excites me the most!
 
 ---
+## 📊 Github Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshini-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
+</p>
+
 
 ## 💡 Currently Exploring
 

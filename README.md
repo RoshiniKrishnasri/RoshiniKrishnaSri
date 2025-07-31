@@ -87,10 +87,12 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 - Python basics & mini projects
 - GitHub basics and version control
 - Learning paths for beginners in Data Science
----
+
+
 ## ✨ My Motto
 > *"Learn passionately, grow consistently, share generously, and uplift others along the way."* 🌱💫
----
+
+
 ## 📫 Connect with me
 
 <p align="left">

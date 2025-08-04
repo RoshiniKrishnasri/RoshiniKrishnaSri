@@ -37,7 +37,7 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshini-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
 </p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=roshini-hub&theme=dark&exclude_days=Sun" alt="GitHub Streak" /></a>
 ## Technical Skills ✔
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;

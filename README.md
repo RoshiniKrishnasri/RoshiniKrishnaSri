@@ -100,7 +100,7 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
   <a href="mailto:roshinikrishnasri@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/roshini-krishnasri-b3b677293/" target="_blank">
+  <a href="https://www.linkedin.com/in/roshini-krishnasri/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/rosh_ini_166/" target="_blank">

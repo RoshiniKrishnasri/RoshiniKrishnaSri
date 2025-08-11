@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=007ACC&size=28&center=true&vCenter=true&width=750&height=70&lines=Hey+I'm+Roshini+Krishna+Sri+💛;🌱+On+a+journey+of+self-growth+%26+learning;💡+Curious+Mind+%7C+Passionate+Problem+Solver;💻+Exploring+Data+Science+%7C+Python+%7C+SQL;📊+LeetCode+%26+GitHub+Grind;🎯+Focused+on+Consistency+Over+Perfection;📚+Loves+to+learn+%7C+build+%7C+grow;✨+Believer+in+Small+Steps+%3D+Big+Change">
 </p>
 
-
 ---
 
 ## ✨ About Me

@@ -32,14 +32,14 @@ Connecting with like-minded people, sharing ideas, and building cool things toge
 
 ---
 ## 📊 Github Stats
-
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshini-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshini-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 </p>
 
- <!--
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=roshini-hub&theme=tokyonight"/>
- -->
+<p align="left">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=roshini-hub&theme=radical&date_format=%5BY-%5Dm-%5Bd%5D&hide_border=true&stroke=FFFFFF&ring=FF0000&fire=FFFF00&currStreakNum=0000FF&currStreakLabel=00FF00&sideNums=FF00FF&sideLabels=00FFFF" />
+</p>
+
 ## Technical Skills ✔
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
